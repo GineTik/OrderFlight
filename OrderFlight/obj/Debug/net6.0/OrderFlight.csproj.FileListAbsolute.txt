@@ -1,0 +1,15 @@
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\bin\Debug\net6.0\OrderFlight.exe
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\bin\Debug\net6.0\OrderFlight.deps.json
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\bin\Debug\net6.0\OrderFlight.runtimeconfig.json
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\bin\Debug\net6.0\OrderFlight.dll
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\bin\Debug\net6.0\ref\OrderFlight.dll
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\bin\Debug\net6.0\OrderFlight.pdb
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.csproj.AssemblyReference.cache
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.GeneratedMSBuildEditorConfig.editorconfig
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.AssemblyInfoInputs.cache
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.AssemblyInfo.cs
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.csproj.CoreCompileInputs.cache
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.dll
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\ref\OrderFlight.dll
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.pdb
+D:\Університет\ООП(Об'єктно-орієнтоване програмування)\OrderFlight\OrderFlight\obj\Debug\net6.0\OrderFlight.genruntimeconfig.cache
