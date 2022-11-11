@@ -6,7 +6,7 @@ namespace OrderFlight.Factories
     {
         public IEnumerable<Ticket> Create(int count, decimal price, int lastSeatNumber = 0)
         {
-            for (int i = lastSeatNumber; i < count; i++)
+            for (int i = lastSeatNumber; i < count + lastSeatNumber; i++)
             {
                 yield return new Ticket()
                 {

@@ -13,6 +13,7 @@ namespace OrderFlight.Helpers
                 {
                     new Card()
                     {
+                        Id = 1,
                         Fullname = "Peter Parker",
                         Number = "0000 0000 0000 0000",
                         CVC = 616,
@@ -22,6 +23,7 @@ namespace OrderFlight.Helpers
 
                     new Card()
                     {
+                        Id = 2,
                         Fullname = "Peter Parker",
                         Number = "1111 1111 1111 1111",
                         CVC = 713,
@@ -31,6 +33,7 @@ namespace OrderFlight.Helpers
 
                     new Card()
                     {
+                        Id = 3,
                         Fullname = "Peter Parker",
                         Number = "1234 1234 1234 1234",
                         CVC = 233,

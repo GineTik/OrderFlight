@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using OrderFlight;
+
+
+
 Console.WriteLine("Hello, World!");
+new Application().Run();

@@ -12,25 +12,29 @@ namespace OrderFlight.Helpers
             {
                 new Flight()
                 {
-                    Plane = planes[0],
+                    Id = 1,
+                    Plane = planes.First(x => x.Name == "Plane #1"),
                     DateOfDeparture = DateTime.Parse("13.11.2022"),
                 },
 
                 new Flight()
                 {
-                    Plane = planes[0],
+                    Id = 2,
+                    Plane = planes.First(x => x.Name == "Plane #1"),
                     DateOfDeparture = DateTime.Parse("14.11.2022"),
                 },
 
                 new Flight()
                 {
-                    Plane = planes[1],
+                    Id = 3,
+                    Plane = planes.First(x => x.Name == "Plane #2"),
                     DateOfDeparture = DateTime.Parse("12.11.2022"),
                 },
 
                 new Flight()
                 {
-                    Plane = planes[2],
+                    Id = 4,
+                    Plane = planes.First(x => x.Name == "Plane #3"),
                     DateOfDeparture = DateTime.Parse("16.11.2022"),
                 },
             };
